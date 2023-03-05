@@ -5,7 +5,7 @@
 有一些是我有改過的
 
 不過我忘了讓他用SESSION把東西記著
-換句話說...重載的話設定都會跑掉
+換句話說...重載(F5)的話設定都會跑掉
 
 <!--
 **tokihorokeiya/tokihorokeiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
