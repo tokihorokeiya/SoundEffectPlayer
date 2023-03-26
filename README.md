@@ -1,10 +1,10 @@
 ### 網頁: https://tokihorokeiya.github.io/soundEffectPlayer/
 
-這是一個用來播音效的小東東
+這是一個用來播音效的小東西
 是我跟ChatGPT一起寫出來的
 有一些是我有改過的
 
-不過我忘了讓他用SESSION把東西記著
+不過我忘了讓他用SESSION COOKIE把東西記著
 換句話說...重載(F5)的話設定都會跑掉
 
 <!--
